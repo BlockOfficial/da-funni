@@ -1,0 +1,66 @@
+h1 {
+    font-style: oblique;
+    font-family: verdana;
+    text-align: center;
+    color:blueviolet;
+}
+
+h2 {
+    font-style: italic;
+    text-align:center;
+    color: blueviolet;
+}
+
+header {
+    background: darkslategray;
+}
+
+nav {
+    background-color:lightgrey;
+    text-align:right;
+}
+
+h3 {
+    font-size:30px;
+    font-style:bold;
+}
+
+.YouTube{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.Twitter{
+    background-color: lightskyblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    color: black;
+}
+
+.Discord{
+    background-color: #16A0F9;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    color: black;
+}
+
+.mEmEofthewEEk{
+    font-family: 'Courier New', Courier, monospace;
+}
+
